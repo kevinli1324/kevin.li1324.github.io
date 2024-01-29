@@ -107,7 +107,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Projects
+      title: Projects and Publications
       filters:
         folders:
           - project
