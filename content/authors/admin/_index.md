@@ -25,7 +25,7 @@ organizations:
     url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Hello! I'm a 3rd Year Statistical Science PhD student at Duke University. I work on models that can flexibly model complex phenomenon and quantify uncertainty using limited information. I'm am particularly in applying these models for downstream decisionmaking tasks such as causal inference and adaptive experimentation. I've worked in applications such retail forecasting, emulation of engineering and physics experiments, neuro-computation, and genetic sequencing. Before my PhD I developed credit authorization systems with the Risk and Decision Sciences team at American Express. 
+bio: Hello! I'm a 3rd Year Statistical Science PhD student at Duke University. I work on computational and statistical methods for modeling complex phenomenon and quantifying uncertainty under limited information. I'm particularly interested in applying these models for downstream decisionmaking tasks such as causal inference and adaptive experimentation. My research applications have included retail forecasting, emulation of engineering and physics experiments, neuro-computation, and genetic sequencing. Before my PhD I developed credit authorization systems with the Risk and Decision Sciences team at American Express. 
 
 # Interests to show in About widget
 interests:
