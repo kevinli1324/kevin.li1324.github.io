@@ -1,6 +1,8 @@
 ---
 title: Trignometric Fourier Features for Scalable Gaussian Process Regression
+venue: aistats
 summary: An example of using the in-built project page.
+
 tags:
   - Deep Learning
 date: '2016-04-27T00:00:00Z'
