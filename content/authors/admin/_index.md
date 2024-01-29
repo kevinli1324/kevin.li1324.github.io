@@ -1,50 +1,49 @@
 ---
 # Display name
-title: 吳健雄
+title: Kevin Li
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation:
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Kevin
+last_name: Li
 
 # Status emoji
 status:
-  icon: ☕️
+  icon:
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Student Statistical Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Duke University Department of Statistical Science
+    url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Hello! I'm a 3rd Year Statistical Science PhD student at Duke University. I work on models that can flexibly model complex phenomenon and quantify uncertainty using limited information. I'm am particularly in applying these models for downstream decisionmaking tasks such as causal inference and adaptive experimentation. I've worked in applications such retail forecasting, emulation of engineering and physics experiments, neuro-computation, and genetic sequencing. Before my PhD I developed credit authorization systems with the Risk and Decision Sciences team at American Express. 
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Gaussian Process Modeling and Computation
+  - Bayesian Optimization/Adaptive Experimentation
+  - Bayesian Inference
+  - Causal Inference
+  - Time Series
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Statistical Science
+      institution: Duke University
+      year: 2021-2025
+    - course: BA in Mathematics and Statistics
+      institution: Columbia University
+      year: 2016-2020
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
