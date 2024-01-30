@@ -23,6 +23,10 @@ role: PhD Student Statistical Science
 organizations:
   - name: Duke University Department of Statistical Science
     url: 
+social:
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf
 
 # Short bio (displayed in user profile at end of posts)
 bio: Hello! I'm a 3rd Year Statistical Science PhD student at Duke University. I work on computational and statistical methods for modeling complex phenomenon and quantifying uncertainty under limited information. I'm particularly interested in applying these models for downstream decisionmaking tasks such as causal inference and adaptive experimentation. My research applications have included retail forecasting, emulation of engineering and physics experiments, neuro-computation, and genetic sequencing. Before my PhD I developed credit authorization systems with the Risk and Decision Sciences team at American Express. 
